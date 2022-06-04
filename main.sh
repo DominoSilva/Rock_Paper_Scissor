@@ -1,1 +1,1 @@
-python src/rock_paper_scissors.py
+python3 main.py
